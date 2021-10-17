@@ -34,4 +34,5 @@ var swiper = new Swiper(".home-slider", {
     },600);
     // animation on scroll 
     AOS.init();
+    AOS.init({disable: 'mobile'});
 });
