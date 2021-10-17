@@ -64,7 +64,6 @@ section{
     justify-content: space-between;
     padding: 2rem 9%;
     background: #fff;
-    // border: 1px solid blue;
 
     .navbar{
         width: 32%;
@@ -166,7 +165,6 @@ section{
             text-align: center;
             flex-wrap: wrap;
             justify-content: space-evenly;
-            border: 1px solid #768691;
 
            .home-image-left{
                width: 28%;
@@ -557,9 +555,9 @@ section{
     font-size: 26px;
 }
 
-.home .home-slider .slide .home-image-left img{
-    height: 21rem;
-}
+// .home .home-slider .slide .home-image-left img{
+//     height: 21rem;
+// }
 
 .home .home-slider .slide .home-image-right img {
     height: 21rem;
