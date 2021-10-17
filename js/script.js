@@ -33,6 +33,5 @@ var swiper = new Swiper(".home-slider", {
     document.querySelector(".page-loader").style.display="none";
     },600);
     // animation on scroll 
-    AOS.init();
-    AOS.init({disable: 'mobile'});
+    // AOS.init();
 });
